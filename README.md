@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/emrekndl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emre-kondul-803bba155/)](https://www.linkedin.com/in/emre-kondul-803bba155/)
 
 
-
 **👨🏻‍💻 Currently working on:** 
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
@@ -39,9 +38,6 @@ Here are some ideas to get you started:
 
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 
-
-
-
-![emrekndl's github stats](https://github-readme-stats.vercel.app/api/pin?username=emrekndl&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Emrekndl's github stats](https://github-readme-stats.vercel.app/api?username=emrekndl)
 
 [![HitCount](http://hits.dwyl.com/emrekndl/emrekndl.svg)](http://hits.dwyl.com/emrekndl/emrekndl)
