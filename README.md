@@ -45,5 +45,4 @@ Here are some ideas to get you started:
 ![emrekndl's github stats](https://github-readme-stats.vercel.app/api?username=emrekndl&show_icons=true&line_height=30)
 
 
-[![HitCount](http://hits.dwyl.com/emrekndl/.svg)](http://hits.dwyl.com/emrekndl/)
-
+[![HitCount](http://hits.dwyl.com/emrekndl/emrekndl.svg)](http://hits.dwyl.com/emrekndl/emrekndl)
