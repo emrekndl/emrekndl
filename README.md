@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 
 
+
 **⛰ Looking forward to learn:** 
 
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
@@ -43,3 +44,10 @@ Here are some ideas to get you started:
 ![Emrekndl's github stats](https://github-readme-stats.vercel.app/api?username=emrekndl)
 
 [![HitCount](http://hits.dwyl.com/emrekndl/emrekndl.svg)](http://hits.dwyl.com/emrekndl/emrekndl)
+
+
+<br>
+**My Desktop Setup:**
+<img align="left" height="270px" width="450px" alt="Desktop Screenshot" src="https://github.com/emrekndl/DesktopSetups/blob/master/2020-06-2423-52-15.png" />
+<br />
+
