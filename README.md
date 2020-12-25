@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 ![Emrekndl's github stats](https://github-readme-stats.vercel.app/api?username=emrekndl)
 
-[![HitCount](http://hits.dwyl.com/emrekndl/emrekndl.svg)](http://hits.dwyl.com/emrekndl/emrekndl)
-
+<!--[![HitCount](http://hits.dwyl.com/emrekndl/emrekndl.svg)](http://hits.dwyl.com/emrekndl/emrekndl)-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emrekndl" alt="emrekndl" /> </p>
 
 
 **My Desktop Setup:**
