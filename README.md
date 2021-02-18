@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 
 **My Desktop Setup:**
 <br />
-<img align="left" height="270px" width="450px" alt="Desktop Screenshot" src="https://github.com/emrekndl/DesktopSetups/blob/master/2020-06-2423-52-15.png" />
+<img align="left" height="270px" width="450px" alt="Desktop Screenshot" src="https://github.com/emrekndl/DesktopSetups/blob/master/images/2021-01-28-16-21-48.png" />
 <br />
 
