@@ -45,11 +45,5 @@ Here are some ideas to get you started:
 <!--[![HitCount](http://hits.dwyl.com/emrekndl/emrekndl.svg)](http://hits.dwyl.com/emrekndl/emrekndl)-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrekndl" alt="emrekndl" /> </p>
 
-<!--
-**My Desktop Setup:**
-<br />
-<!--height="270px" width="450px"-->
-<img align="left"  alt="Desktop Screenshot" src="https://github.com/emrekndl/DesktopSetups/blob/master/images/2021-01-28-16-21-48.png" />
-<br />
--->
+
 
