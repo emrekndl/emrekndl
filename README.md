@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <code><a href="https://www.debian.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"></a></code>
 <code><a href="https://opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
 <code><a href="https://https://www.odoo.com//" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Odoo_logo_rgb.svg"></a></code>
+<code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
 
 **💬 Ask me about:** 
 
