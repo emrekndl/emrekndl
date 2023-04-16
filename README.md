@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+<code><a href="https://www.rust-lang.org/" target="_blank"><img height="50" src="[https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></a></code>
 
 ![Emrekndl's github stats](https://github-readme-stats.vercel.app/api?username=emrekndl)
 
