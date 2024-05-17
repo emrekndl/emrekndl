@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://www.archlinux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></a></code>
-<code><a href="https://www.debian.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"></a></code>
 <code><a href="https://opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
 <code><a href="https://https://www.odoo.com//" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Odoo_logo_rgb.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
