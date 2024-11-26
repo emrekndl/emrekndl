@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <code><a href="https://https://www.odoo.com//" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Odoo_logo_rgb.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
 <code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></a></code>
+<code><a href="https://fastapi.tiangolo.com/" target="_blank"><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg"></a></code>
 
 **💬 Ask me about:** 
 
