@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**📫 Where to find me:** 
-
-[![Linkedin Badge](https://img.shields.io/badge/emrekndl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emre-kondul-803bba155/)](https://www.linkedin.com/in/emre-kondul-803bba155/)
-
-
 **👨🏻‍💻 Currently working on:** 
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
